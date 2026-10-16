@@ -1,0 +1,121 @@
+Fecha,Hora,Fases,Trade,Posición,Quality_Setup,Funcionó,PnL Neto ($),Comision,MAE_TICKS,MFE_TICKS,Comentario
+29/09/2023,15:01,Fase 1,Tipo 2,Corto,A+,No,-24.0,1.9,15,1,Rango no detectado a tiempo.
+10/10/2023,11:40,Fase 3,Tipo 2,Largo,A+,No,-17.96,1.9,14,5,Rango no detectado a tiempo.
+25/09/2023,15:23,Fase 1,Tipo 2,Largo,A+,Si,26.46,1.9,6,25,Se dejó correr hasta el target.
+29/09/2023,11:16,Fase 1,Tipo 2,Corto,C,No,-17.88,1.9,10,5,Stop ajustado por ansiedad.
+10/10/2023,12:34,Fase 4,Tipo 3,Largo,B,Si,35.61,1.9,7,26,"Buen trade, se respetaron las reglas."
+04/10/2023,11:57,Fase 1,Tipo 1,Largo,A,No,-20.6,1.9,12,2,Entrada tardía por FOMO.
+04/09/2023,09:21,Fase 2,Tipo 3,Largo,A,Si,24.01,1.9,3,25,Se dejó correr hasta el target.
+12/10/2023,14:21,Fase 2,Tipo 2,Largo,A,Si,15.22,1.9,7,17,"Buen trade, se respetaron las reglas."
+28/09/2023,11:43,Fase 4,Tipo 3,Corto,A,No,-24.05,1.9,12,4,Rango no detectado a tiempo.
+06/10/2023,12:38,Fase 2,CT,Largo,A,Si,23.74,1.9,6,26,Gestión impecable.
+05/09/2023,15:46,Fase 1,Tipo 2,Largo,B,Si,27.68,1.9,2,21,"Buen trade, se respetaron las reglas."
+05/10/2023,15:37,Fase 2,Tipo 3,Largo,A+,No,-22.19,1.9,12,5,Stop ajustado por ansiedad.
+11/09/2023,10:46,Fase 4,Tipo 1,Largo,A,Si,28.42,1.9,6,25,"Buen trade, se respetaron las reglas."
+12/10/2023,10:35,Fase 3,Tipo 2,Largo,A,No,-23.31,1.9,10,1,Entrada tardía por FOMO.
+19/09/2023,09:35,Fase 3,Tipo 3,Corto,A+,No,-23.96,1.9,12,3,Stop ajustado por ansiedad.
+21/09/2023,10:59,Fase 2,CT,Corto,A,Si,20.37,1.9,1,28,"Buen trade, se respetaron las reglas."
+18/09/2023,10:56,Fase 3,Tipo 2,Largo,A+,No,-15.65,1.9,10,1,Rango no detectado a tiempo.
+11/10/2023,10:06,Fase 1,Tipo 1,Largo,A+,No,-19.53,1.9,15,3,Entrada tardía por FOMO.
+08/09/2023,14:43,Fase 3,Tipo 2,Corto,A+,No,-17.15,1.9,13,3,Rango no detectado a tiempo.
+05/10/2023,14:32,Fase 3,Tipo 2,Largo,A+,No,-19.26,1.9,14,1,Entrada tardía por FOMO.
+26/09/2023,10:28,Fase 3,Tipo 1,Corto,C,Si,26.44,1.9,1,26,Gestión impecable.
+20/09/2023,10:23,Fase 4,Tipo 2,Largo,A,Si,28.25,1.9,7,27,Gestión impecable.
+15/09/2023,12:21,Fase 3,Tipo 3,Largo,B,No,-24.42,1.9,15,3,Stop ajustado por ansiedad.
+07/09/2023,14:01,Fase 4,Tipo 1,Corto,A+,Si,20.34,1.9,1,22,Se dejó correr hasta el target.
+08/09/2023,13:07,FOBO,Tipo 1,Corto,B,No,-23.08,1.9,10,2,Reversión inesperada en Fase 3.
+11/10/2023,13:30,Fase 3,Tipo 1,Corto,A+,No,-18.56,1.9,15,3,Reversión inesperada en Fase 3.
+01/09/2023,14:14,Fase 3,Tipo 1,Largo,A,Si,28.11,1.9,7,27,Gestión impecable.
+06/10/2023,14:20,Fase 3,Tipo 3,Largo,A+,No,-24.19,1.9,12,5,Stop ajustado por ansiedad.
+04/09/2023,14:59,Fase 4,Tipo 1,Corto,A+,No,-20.76,1.9,12,2,Entrada tardía por FOMO.
+19/09/2023,14:35,Fase 1,Tipo 1,Largo,B,No,-16.69,1.9,11,5,Reversión inesperada en Fase 3.
+05/09/2023,15:38,Fase 2,Tipo 1,Largo,A,Si,21.66,1.9,6,23,Se dejó correr hasta el target.
+07/09/2023,12:36,Fase 3,CT,Corto,A,No,-17.76,1.9,11,4,Reversión inesperada en Fase 3.
+06/09/2023,10:38,Fase 1,Tipo 2,Largo,A,Si,27.17,1.9,5,19,"Buen trade, se respetaron las reglas."
+21/09/2023,11:00,Fase 2,Tipo 3,Largo,A+,No,-23.97,1.9,10,2,Reversión inesperada en Fase 3.
+05/09/2023,11:25,Fase 4,Tipo 1,Largo,A+,Si,40.9,1.9,7,18,"Buen trade, se respetaron las reglas."
+07/09/2023,15:07,Fase 2,Tipo 3,Largo,A+,No,-15.35,1.9,15,2,Reversión inesperada en Fase 3.
+12/10/2023,14:58,Fase 1,Tipo 1,Largo,A,Si,15.86,1.9,2,18,Gestión impecable.
+10/10/2023,10:30,Fase 2,CT,Corto,B,Si,21.5,1.9,7,27,Gestión impecable.
+05/10/2023,14:54,Fase 3,Tipo 2,Corto,A+,Si,39.35,1.9,7,22,Gestión impecable.
+10/10/2023,09:48,Fase 1,Tipo 1,Largo,A+,No,-15.3,1.9,10,5,Entrada tardía por FOMO.
+26/09/2023,13:12,Fase 1,Tipo 1,Corto,A,Si,42.67,1.9,7,27,Se dejó correr hasta el target.
+08/09/2023,15:01,Fase 3,Tipo 3,Corto,A+,No,-20.9,1.9,10,3,Reversión inesperada en Fase 3.
+13/09/2023,11:17,Fase 2,Tipo 1,Largo,A+,Si,26.82,1.9,3,24,Se dejó correr hasta el target.
+07/09/2023,11:01,Fase 2,Tipo 1,Largo,A+,No,-15.41,1.9,14,1,Stop ajustado por ansiedad.
+06/09/2023,10:41,Fase 1,CT,Corto,C,No,-24.03,1.9,14,3,Rango no detectado a tiempo.
+08/09/2023,11:46,Fase 3,Tipo 3,Largo,A+,Si,35.35,1.9,6,28,Se dejó correr hasta el target.
+12/10/2023,12:15,Fase 3,Tipo 2,Corto,B,No,-17.53,1.9,15,3,Entrada tardía por FOMO.
+11/10/2023,11:49,Fase 3,Tipo 1,Corto,A+,No,-19.15,1.9,10,5,Reversión inesperada en Fase 3.
+03/10/2023,09:14,Fase 1,CT,Corto,A,No,-21.79,1.9,15,5,Entrada tardía por FOMO.
+22/09/2023,12:32,Fase 1,Tipo 3,Largo,A,Si,37.17,1.9,5,15,Se dejó correr hasta el target.
+01/09/2023,12:54,Fase 3,Tipo 1,Corto,C,No,-21.18,1.9,15,2,Rango no detectado a tiempo.
+06/10/2023,09:33,Fase 4,Tipo 1,Largo,A,Si,22.37,1.9,4,24,Gestión impecable.
+27/09/2023,11:53,Fase 3,Tipo 2,Largo,A,Si,28.02,1.9,6,23,"Buen trade, se respetaron las reglas."
+12/09/2023,14:55,Fase 3,Tipo 2,Corto,B,No,-24.05,1.9,11,3,Stop ajustado por ansiedad.
+04/10/2023,10:07,Fase 1,Tipo 1,Largo,A+,Si,19.1,1.9,3,17,Se dejó correr hasta el target.
+06/10/2023,13:36,Fase 2,Tipo 3,Largo,B,No,-22.9,1.9,14,1,Stop ajustado por ansiedad.
+09/10/2023,12:12,FOBO,Tipo 3,Corto,A+,No,-17.2,1.9,15,2,Reversión inesperada en Fase 3.
+26/09/2023,14:56,Fase 1,Tipo 2,Corto,A+,Si,16.01,1.9,5,30,"Buen trade, se respetaron las reglas."
+05/10/2023,11:02,Fase 3,Tipo 3,Largo,A+,No,-24.89,1.9,13,5,Stop ajustado por ansiedad.
+27/09/2023,15:22,Fase 1,Tipo 2,Largo,A,No,-15.41,1.9,12,3,Reversión inesperada en Fase 3.
+05/09/2023,09:07,Fase 3,Tipo 3,Corto,B,Si,20.77,1.9,4,26,Gestión impecable.
+28/09/2023,14:59,Fase 2,Tipo 1,Corto,B,Si,35.99,1.9,6,24,Gestión impecable.
+19/09/2023,14:33,Fase 4,Tipo 1,Corto,A+,Si,29.53,1.9,6,16,Se dejó correr hasta el target.
+14/09/2023,09:45,Fase 1,Tipo 3,Corto,C,Si,38.66,1.9,5,24,"Buen trade, se respetaron las reglas."
+05/09/2023,10:16,Fase 3,Tipo 1,Largo,A+,Si,20.74,1.9,6,21,Gestión impecable.
+19/09/2023,14:53,Fase 1,Tipo 2,Corto,A+,Si,40.39,1.9,1,25,"Buen trade, se respetaron las reglas."
+27/09/2023,13:17,Fase 4,Tipo 1,Corto,A+,Si,44.99,1.9,7,28,"Buen trade, se respetaron las reglas."
+06/09/2023,14:27,Fase 1,Tipo 3,Corto,A+,Si,17.2,1.9,4,19,"Buen trade, se respetaron las reglas."
+28/09/2023,10:34,Fase 3,Tipo 1,Corto,C,No,-16.53,1.9,12,2,Entrada tardía por FOMO.
+01/09/2023,12:58,Fase 3,Tipo 2,Largo,B,No,-16.89,1.9,12,3,Reversión inesperada en Fase 3.
+15/09/2023,11:40,Fase 2,Tipo 1,Largo,A+,No,-23.99,1.9,11,2,Rango no detectado a tiempo.
+02/10/2023,12:08,Fase 3,Tipo 1,Largo,A+,No,-18.24,1.9,10,4,Stop ajustado por ansiedad.
+19/09/2023,12:17,Fase 1,Tipo 1,Corto,B,No,-22.02,1.9,10,1,Reversión inesperada en Fase 3.
+20/09/2023,13:52,Fase 3,Tipo 1,Largo,A+,No,-16.11,1.9,13,3,Reversión inesperada en Fase 3.
+27/09/2023,13:56,Fase 3,Tipo 3,Corto,A+,No,-22.07,1.9,10,5,Entrada tardía por FOMO.
+09/10/2023,09:11,Fase 4,Tipo 1,Largo,A+,Si,37.66,1.9,1,19,Se dejó correr hasta el target.
+04/09/2023,14:46,Fase 3,Tipo 2,Largo,C,Si,25.97,1.9,4,25,Gestión impecable.
+11/10/2023,14:14,Fase 1,Tipo 2,Corto,A+,Si,25.33,1.9,4,28,"Buen trade, se respetaron las reglas."
+12/10/2023,15:43,Fase 4,Tipo 3,Largo,A+,Si,39.67,1.9,7,27,Gestión impecable.
+06/10/2023,15:51,Fase 1,Tipo 2,Largo,A,No,-17.91,1.9,11,1,Reversión inesperada en Fase 3.
+05/09/2023,13:32,Fase 3,Tipo 2,Corto,B,No,-23.8,1.9,13,2,Entrada tardía por FOMO.
+09/10/2023,15:19,Fase 1,Tipo 1,Corto,A,Si,34.76,1.9,1,28,Gestión impecable.
+09/10/2023,10:52,Fase 1,Tipo 2,Corto,C,No,-22.6,1.9,11,4,Stop ajustado por ansiedad.
+02/10/2023,12:14,Fase 3,Tipo 1,Largo,A,No,-17.74,1.9,10,1,Rango no detectado a tiempo.
+15/09/2023,13:44,Fase 1,Tipo 1,Largo,A+,Si,36.32,1.9,3,20,Gestión impecable.
+12/09/2023,11:31,Fase 4,Tipo 3,Largo,C,No,-15.6,1.9,12,4,Stop ajustado por ansiedad.
+05/09/2023,14:12,Fase 1,CT,Largo,C,Si,16.51,1.9,5,26,Gestión impecable.
+03/10/2023,15:20,FOBO,Tipo 3,Corto,B,Si,26.15,1.9,5,16,Se dejó correr hasta el target.
+08/09/2023,11:02,Fase 3,Tipo 3,Corto,A,No,-17.85,1.9,12,1,Reversión inesperada en Fase 3.
+28/09/2023,13:06,Fase 1,Tipo 1,Corto,A,Si,16.59,1.9,7,19,Gestión impecable.
+21/09/2023,13:35,Fase 3,Tipo 2,Largo,A+,No,-23.5,1.9,11,1,Rango no detectado a tiempo.
+18/09/2023,09:50,Fase 2,CT,Largo,A,No,-17.38,1.9,14,4,Rango no detectado a tiempo.
+06/09/2023,10:50,Fase 1,Tipo 3,Corto,A,Si,29.8,1.9,1,29,Se dejó correr hasta el target.
+29/09/2023,14:18,Fase 3,Tipo 2,Corto,A,No,-15.4,1.9,15,1,Reversión inesperada en Fase 3.
+15/09/2023,10:22,FOBO,Tipo 1,Corto,A,Si,15.15,1.9,4,22,Gestión impecable.
+07/09/2023,10:52,Fase 3,Tipo 3,Corto,A+,Si,42.1,1.9,5,27,"Buen trade, se respetaron las reglas."
+05/09/2023,15:46,Fase 3,Tipo 1,Corto,C,No,-23.62,1.9,14,4,Entrada tardía por FOMO.
+18/09/2023,11:02,Fase 3,Tipo 1,Largo,A+,No,-16.53,1.9,10,3,Rango no detectado a tiempo.
+14/09/2023,11:52,Fase 1,Tipo 1,Largo,B,No,-21.13,1.9,12,3,Reversión inesperada en Fase 3.
+22/09/2023,10:38,Fase 3,Tipo 3,Corto,A,No,-24.41,1.9,15,5,Entrada tardía por FOMO.
+21/09/2023,10:39,Fase 3,Tipo 3,Largo,A,No,-15.7,1.9,13,4,Reversión inesperada en Fase 3.
+05/10/2023,09:45,Fase 1,Tipo 2,Largo,C,Si,26.61,1.9,6,18,"Buen trade, se respetaron las reglas."
+05/10/2023,14:32,Fase 3,CT,Corto,A,Si,34.35,1.9,7,18,Se dejó correr hasta el target.
+04/09/2023,11:26,Fase 1,CT,Largo,A+,Si,22.02,1.9,4,18,"Buen trade, se respetaron las reglas."
+01/09/2023,13:04,Fase 1,Tipo 1,Largo,A+,No,-15.1,1.9,15,1,Rango no detectado a tiempo.
+11/10/2023,12:44,Fase 2,Tipo 2,Corto,A+,Si,38.17,1.9,1,22,Gestión impecable.
+06/09/2023,15:31,Fase 1,Tipo 1,Corto,B,Si,24.15,1.9,2,20,Gestión impecable.
+20/09/2023,14:18,Fase 3,Tipo 2,Corto,B,No,-17.9,1.9,14,2,Rango no detectado a tiempo.
+02/10/2023,11:33,Fase 3,CT,Corto,B,No,-19.27,1.9,15,3,Stop ajustado por ansiedad.
+25/09/2023,15:41,Fase 1,Tipo 2,Corto,A,Si,23.9,1.9,2,26,"Buen trade, se respetaron las reglas."
+04/10/2023,12:29,Fase 3,Tipo 2,Corto,A+,No,-17.52,1.9,11,5,Rango no detectado a tiempo.
+12/09/2023,10:24,Fase 1,Tipo 1,Largo,C,Si,33.45,1.9,5,19,"Buen trade, se respetaron las reglas."
+22/09/2023,14:14,Fase 4,Tipo 2,Largo,A+,Si,42.56,1.9,7,28,"Buen trade, se respetaron las reglas."
+26/09/2023,11:49,Fase 3,Tipo 2,Corto,B,No,-16.91,1.9,11,3,Stop ajustado por ansiedad.
+12/10/2023,14:04,Fase 3,Tipo 1,Corto,A,Si,22.49,1.9,2,22,Se dejó correr hasta el target.
+20/09/2023,10:55,FOBO,Tipo 1,Corto,B,Si,33.74,1.9,3,16,Gestión impecable.
+21/09/2023,11:49,Fase 2,Tipo 1,Corto,B,Si,41.33,1.9,2,27,Se dejó correr hasta el target.
+01/09/2023,14:18,Fase 1,Tipo 1,Largo,A,Si,36.06,1.9,5,15,Se dejó correr hasta el target.
+07/09/2023,15:13,Fase 1,Tipo 3,Largo,A+,Si,27.5,1.9,2,26,"Buen trade, se respetaron las reglas."
+22/09/2023,11:36,Fase 3,Tipo 3,Largo,A+,No,-20.88,1.9,13,2,Reversión inesperada en Fase 3.

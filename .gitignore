@@ -1,0 +1,22 @@
+# 🛑 1. PROTECCIÓN DE DATOS FINANCIEROS Y BACKTESTING REAL (CRÍTICO)
+# Bloquea cualquier archivo que contenga estas palabras en su nombre:
+*Real*.csv
+*Real*.xlsx
+*Demo*.csv
+*Demo*.xlsx
+Backtest*.csv
+Backtest*.xlsx
+
+# Por máxima seguridad, bloqueamos todos los archivos Excel. 
+# (Para el portafolio público solo usaremos tu 'dummy_data.csv')
+*.xlsx
+*.xls
+
+# ⚙️ 2. ARCHIVOS DEL SISTEMA Y ENTORNOS PYTHON
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+env/
+.DS_Store
